@@ -15,5 +15,11 @@
         </configuration>
       </plugin>
     </plugins>
+	<properties>
+  <sonar.projectKey>smaaliSahar_TPTML</sonar.projectKey>
+  <sonar.organization>smaalisahar</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>8859f0d4db5b6ce74fbf7792f3faff424faeeed8</sonar.login>
+</properties>
   </build>
 </project>
